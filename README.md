@@ -7,6 +7,9 @@ This project focuses on analyzing Amazon sales data and building an interactive 
 ## Objectives
 Create a comprehensive dashboard that analyzes sales performance for an eCommerce company over a specific time period.
 
+## Dashboard Preview
+![Dashboard Preview](https://github.com/Veer7733/Internship_Project-Sales_Analysis_Dashboard/blob/main/Dashboard/Sales%20Analysis%20Dashboard_Preview.png)
+
 ## Tools & Technologies
 - **Python:** Pandas, NumPy (For Data Cleaning)
 - **Visualization:** Power BI  
